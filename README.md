@@ -99,5 +99,5 @@ Our main goal is to provide senior managers data-driven insights to:
 
 From the data tables above, I created Star Schema Model as below
 
-![](C:\Users\AD\Desktop\Data Learning\UniGap\PBI\Project2\Data Model.png)
+<img width="1015" height="733" alt="Data Model" src="https://github.com/user-attachments/assets/a741fffe-5a51-4c98-8ba5-1316a999d0a6" />
 
