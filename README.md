@@ -15,12 +15,14 @@ Tool Used: Power BI
 
 ## 📌Overview
 🎯**Project Objectives**
-This project uses Power BI to analyze and visualize global sale data for a retail company named Superstore, which operates across multiple markets and continents. The company is growing fast and aiming to expand their markets and strategic products
-Our main goals are:
-- 
+This project uses Power BI to analyze and visualize global sale data for a retail company named Superstore, which operates across multiple markets and continents. The company is growing fast and aiming to expand their markets and strategic products\ 
+Our main goal is to provide senior managers data-driven insights to:
+- Get an overview of business performance in terms of sales, profit, and order return rate over the years, markets and products
+- Identify growth markets and strategic products, which lead to better market strategy, commercial tactics and product portfolio
+- Shorten decision time
 
 ❓**Business questions**
-- Overall performance: How is the business performing in terms of sales, profit, and order return rate in different years, market and product categories?
+- Overall performance: How is the business performing in general?
 - Market performance: How different markets are performing and where should we expand?
 - Product performance: What are strategic products should be prioritized?
 
@@ -29,22 +31,6 @@ Our main goals are:
 - Product Managers, Business Strategy, Marketing and Management teams who decide market growth, strategic products and marketing strategies
 - Data analysts and Data team who are looking for actionable insights
 
-
-Using SQL/BigQuery and a dashboard, the project turns raw transactional data into:
-
-Clear views of where growth is happening and where it is slowing down
-
-Signals on which markets to prioritize for expansion
-
-Insights on which products should be strategic bets and which may need to be fixed, repositioned, or removed
-
-These insights support decisions such as:
-
-Setting revenue growth targets by region
-
-Choosing strategic product lines to push in each market
-
-Reducing returns and margin leakage by spotting problems early
 
 
 
