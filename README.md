@@ -32,10 +32,19 @@ Our main goal is to provide senior managers data-driven insights to:
 - Product Managers, Business Strategy, Marketing and Management teams who decide market growth, strategic products and marketing strategies
 - Data analysts and Data team who are looking for actionable insights
 
+## 📂Dataset Description & Data Structure
+### 📌Data Source
+- Context: This is a dataset about a fictional online retail company named Global Superstore, which sells furniture, office supplies and technology products globally.
+- The dataset includes 3 tables:
+  - Order: 51,281 records
+  - People: 13 records
+  - Returns: 1172 records
+- Format: CSV
 
+### 📊Data Structure & Relationships
+1️⃣ **Tables Used**
+  - Order: contains sales transactions and customer information (51,281 records)
+  - People: contains sales managers responsible for each region (13 records)
+  - Returns: contains orders that were returned by customers (1172 records)
 
-
-The dataset includes:
-- Order: sales transaction
-- People: sales managers responsible for each region
-- Returns: orders that were returned by customers
+2️⃣ **Table Schemas**
