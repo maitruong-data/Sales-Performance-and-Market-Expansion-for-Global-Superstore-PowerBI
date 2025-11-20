@@ -48,3 +48,49 @@ Our main goal is to provide senior managers data-driven insights to:
   - Returns: contains orders that were returned by customers (1172 records)
 
 2️⃣ **Table Schemas**
+<details>
+  <summary>Table 1: Order - sales transactions and customer information </summary>
+  
+| Column Name | Data Type | Description |
+|----------|----------|----------|
+|OrderID| String| The unique identifier for each order|
+|Order Date| Date| The date the order was placed|
+|Ship Date| Date| The date the order was shipped|
+|Ship Mode| String| Shipping method|
+|Customer ID| String| The unique identifier for each customer|
+|Customer Name| String| Name of customer|
+|Segment| String| Customer Segment (Consumer, Coporate, Home Office)|
+|City| String| Customer's city|
+|State| String| Customer's state|
+|City| String| Customer's city|
+|Country| String| Customer's country|
+|Postal Code| String| Customer's postal code|
+|Market| String| Geographical market|
+|Region| String| Geographical region|
+|Product ID| String| The unique identifier for each product|
+|Category| String| Product's main category|
+|Sub-Category| String| Product's sub-category|
+|Product Name| String| Name of product|
+|Sales| Float| Sales value of the transaction|
+|Quantity| Integer| Quantity of product sold in the transaction|
+|Profit| Float| Profit from the transaction|
+
+
+
+
+
+</details>
+
+<details>
+  <summary>Table 2: People</summary>
+
+
+
+</details>
+
+<details>
+  <summary>Table 3: Returns</summary>
+
+
+
+</details>
