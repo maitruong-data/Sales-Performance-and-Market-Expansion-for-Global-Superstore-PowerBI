@@ -75,22 +75,24 @@ Our main goal is to provide senior managers data-driven insights to:
 |Quantity| Integer| Quantity of product sold in the transaction|
 |Profit| Float| Profit from the transaction|
 
+</details>
 
+<details>
+  <summary>Table 2: People - sales managers responsible for each region</summary>
 
-
+| Column Name | Data Type | Description |
+|----------|----------|----------|
+|Person| String| Name of sale manager|
+|Region| String| Region where the sale manager is responsible for|
 
 </details>
 
 <details>
-  <summary>Table 2: People</summary>
+  <summary>Table 3: Returns - orders that were returned by customers</summary>
 
-
-
-</details>
-
-<details>
-  <summary>Table 3: Returns</summary>
-
-
+| Column Name | Data Type | Description |
+|----------|----------|----------|
+|Returned| String| Indication if the order was returned (e.g., Yes)|
+|Order ID| String| The unique identifier for each order|
 
 </details>
