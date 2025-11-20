@@ -97,7 +97,22 @@ Our main goal is to provide senior managers data-driven insights to:
 
 </details>
 
+3️⃣**Data Relationship**
+
 From the data tables above, I created Star Schema Model as below
 
 <img width="1015" height="733" alt="Data Model" src="https://github.com/user-attachments/assets/a741fffe-5a51-4c98-8ba5-1316a999d0a6" />
+
+**Relationships between tables**
+
+| From Table | To Table | Join Key | Relationship Type |
+|----------|----------|----------|----------|
+|Orders| DimCustomer| Orders.CustomerID = DimCustomer.CustomerID| Many-to-One |
+|Orders| DimProduct| Orders.ProductKey = DimProduct.ProductKey| Many-to-One |
+|Orders| Return| Orders.OrderID = Returns.OrderID| Many-to-One |
+|Orders| DimDate| Orders.Order Date = DimDate.Date| Many-to-One |
+|Orders| People| Orders.Region = People.Region| Many-to-One |
+
+
+
 
