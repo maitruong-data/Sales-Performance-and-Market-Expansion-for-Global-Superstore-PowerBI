@@ -14,8 +14,10 @@ Tool Used: Power BI
 5. 🔎Final Conclusion & Recommendations
 
 ## 📌Overview
-🎯**Project Objectives**\
-This project uses Power BI to analyze and visualize global sale data for a retail company named Superstore, which operates across multiple markets and continents. The company is growing fast and aiming to expand their markets and strategic products.
+🎯**Project Objectives**
+This project uses Power BI to analyze and visualize global sale data for a retail company named Superstore, which operates across multiple markets and continents. The company is growing fast and aiming to expand their markets and strategic products
+Our main goals are:
+- 
 
 ❓**Business questions**
 - Overall performance: How is the business performing in terms of sales, profit, and order return rate in different years, market and product categories?
