@@ -96,3 +96,8 @@ Our main goal is to provide senior managers data-driven insights to:
 |Order ID| String| The unique identifier for each order|
 
 </details>
+
+From the data tables above, I created Star Schema Model as below
+
+![](C:\Users\AD\Desktop\Data Learning\UniGap\PBI\Project2\Data Model.png)
+
