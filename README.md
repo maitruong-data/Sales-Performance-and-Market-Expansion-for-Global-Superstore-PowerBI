@@ -7,25 +7,26 @@ Tool Used: Power BI
 ***
 
 ## 📑**Table of Contents**
-1. 📌Background & Overview
+1. 📌Overview
 2. 📂Dataset Description & Data Structure
 3. 🧠Design Thinking Process
 4. 📊Key Insights & Visualizations
 5. 🔎Final Conclusion & Recommendations
 
-## 📌Background & Overview
-### Objective
-#### 📖 What is this project about?
-This project uses Power BI to analyze and visualize global sale data for a retail company named Superstore, which operates across multiple markets and continents. The company is growing fast and aiming to expand their markets and strategic products\
-The dataset includes:\
-- Order: sales transaction
-- People: sales managers responsible for each region
-- Returns: orders that were returned by customers
+## 📌Overview
+🎯**Project Objectives**\
+This project uses Power BI to analyze and visualize global sale data for a retail company named Superstore, which operates across multiple markets and continents. The company is growing fast and aiming to expand their markets and strategic products.
 
-❓**Business questions**:
+❓**Business questions**
 - Overall performance: How is the business performing in terms of sales, profit, and order return rate in different years, market and product categories?
-- Market performance: How different markets are performing and where should Superstore expand?
+- Market performance: How different markets are performing and where should we expand?
 - Product performance: What are strategic products should be prioritized?
+
+👤**Target Audience**
+- Senior Managers, Regional Managers or Finance Managers who need a reliable view of business performance to compare markets and products, where are they winning or losing, to guide market expansion and product strategy
+- Product Managers, Business Strategy, Marketing and Management teams who decide market growth, strategic products and marketing strategies
+- Data analysts and Data team who are looking for actionable insights
+
 
 Using SQL/BigQuery and a dashboard, the project turns raw transactional data into:
 
@@ -43,14 +44,9 @@ Choosing strategic product lines to push in each market
 
 Reducing returns and margin leakage by spotting problems early
 
-Who is this project for?
 
-Senior managers and commercial leaders who need a quick, reliable view of business performance to guide market expansion and product strategy.
 
-Sales and regional managers who want to compare markets, understand where they are winning or losing, and focus their teams on high-opportunity areas.
-
-Product and category managers who need data to decide which products to promote, bundle, or phase out.
-
-Data analysts / BI professionals looking for a practical example of how to turn sales, people, and returns data into an actionable performance dashboard using SQL and BigQuery.
-
-Anyone interested in using data to drive e-commerce and retail decisions, not just to report numbers but to answer concrete business questions.
+The dataset includes:
+- Order: sales transaction
+- People: sales managers responsible for each region
+- Returns: orders that were returned by customers
