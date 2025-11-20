@@ -6,9 +6,9 @@ Tools Used: Power BI
 
 ***
 
-📑 - Table of Contents
-📌 - Background & Overview
-📂 - Dataset Description & Data Structure
-🧠 - Design Thinking Process
-📊 - Key Insights & Visualizations
-🔎 - Final Conclusion & Recommendations
+- 📑Table of Contents
+- 📌Background & Overview
+- 📂Dataset Description & Data Structure
+- 🧠Design Thinking Process
+- 📊Key Insights & Visualizations
+- 🔎Final Conclusion & Recommendations
