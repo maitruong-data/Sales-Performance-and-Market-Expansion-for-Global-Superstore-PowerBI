@@ -113,6 +113,14 @@ From the data tables above, I created Star Schema Model as below
 |Orders| DimDate| Orders.Order Date = DimDate.Date| Many-to-One |
 |Orders| People| Orders.Region = People.Region| Many-to-One |
 
+## 🧠Design Thinking Process
+
+1️⃣ Empathize
+2️⃣ Define point of view
+3️⃣ Ideate
+4️⃣ Prototype and review
 
 
+## 📊Key Insights & Visualizations
+### 🔍Dashboard Preview
 
