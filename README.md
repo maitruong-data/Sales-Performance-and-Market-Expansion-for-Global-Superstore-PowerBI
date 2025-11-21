@@ -127,4 +127,12 @@ From the data tables above, I created Star Schema Model as below
 
 1️⃣ **Overview**
 
+<img width="1482" height="830" alt="P2_Overview" src="https://github.com/user-attachments/assets/6f5445d2-cd62-46b1-b0be-1d0ea76e3a7f" />
+
+📌 **Key Findings**
+- Overall, revenue, profit, margin, order number, AOV increased over the years. Return rate also saw an improvement, which was lower year after year, while Margin saw a slight decrease in 2013-2014 period.
+- Time len: Sales and profit grew, while margin peaked around 2013 and eased slightly. Returns trended down overall while orders ramped.
+- Market len: APAC, EU, US drove the bulk of revenue. EMEA and Africa were small but improving. Canada had smallest sales and profit but  
+
+
 
