@@ -130,9 +130,11 @@ From the data tables above, I created Star Schema Model as below
 <img width="1482" height="830" alt="P2_Overview" src="https://github.com/user-attachments/assets/6f5445d2-cd62-46b1-b0be-1d0ea76e3a7f" />
 
 📌 **Key Findings**
-- Overall, revenue, profit, margin, order number, AOV increased over the years. Return rate also saw an improvement, which was lower year after year, while Margin saw a slight decrease in 2013-2014 period.
+- Overall, in 2011-2014 period, the company is in a strong growth cycle. Total sales reached $12.64M and total profit was $1.47M. Both were up a little over +51% YoY. Order volume increased around +52%, which shows growth is broad-based and not just price effects. Profit margin was 11.61%, return rate improved by 1.45%, and AOV was steady around $505 => This suggested that the company sold more, kept margins intact, and reduced product returns—good operating discipline.
 - Time len: Sales and profit grew, while margin peaked around 2013 and eased slightly. Returns trended down overall while orders ramped.
-- Market len: APAC, EU, US drove the bulk of revenue. EMEA and Africa were small but improving. Canada had smallest sales and profit but  
+- Market len: APAC, EU, and US contribute the bulk of revenue and profit. Smaller regions such as EMEA and Africa show the fastest YoY profit growth, suggesting room to invest where we already see momentum. All markets had positive profit YoY%, in which EMEA and Africa ranked highest.
+- Product Category len: Technology was the largest and profitable. Furniture drove revenue but showed a low margin compared to the other categories. Office Supplies was stable mid-margin. Furniture was likely where leakage sat.
+- Demand and profit were high from Consumer customer segment, followed by Corporate and Home Office => This was an opportunity to design segment-specific growth, especially to lift Corporate and Home Office penetration and basket size.
 
-
+📌 **Recommendations**
 
