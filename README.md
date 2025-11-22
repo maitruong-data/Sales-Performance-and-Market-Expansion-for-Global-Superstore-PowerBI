@@ -138,8 +138,13 @@ From the data tables above, I created Star Schema Model as below
 
 2️⃣ **Market**
 
+<img width="1474" height="829" alt="P2_Market " src="https://github.com/user-attachments/assets/84a1c081-ab8a-42bb-8408-f21d7e2ce5f7" />
 
-📌 **Recommendations**
+📌 **Key Findings**
+
+
+
+🔎 **Recommendations**
 - Scale impactful markets: double-down on APAC, EU, US with the current product winner.
 - As Average Order Value (AOV) was flat, recommendations to use bundles and premium tiers to add value without discounting
 - Fix the margin sink in Furniture. Within each big market, cut or reprice low-margin SKUs, and tighten discounting (Product Performance table in page Product will give more details about this)
