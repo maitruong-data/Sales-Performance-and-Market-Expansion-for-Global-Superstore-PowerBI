@@ -166,14 +166,22 @@ Within the selected market, sub-categories are sorted by profit. The cumulative 
   
 3️⃣ **Product**
 
-<img width="1477" height="831" alt="P2_Product" src="https://github.com/user-attachments/assets/7d24b5e1-908a-4c4c-95ca-54fdeabf04bd" />
+<img width="1478" height="829" alt="P2_Product" src="https://github.com/user-attachments/assets/ae16686d-6e75-498a-9d63-c4164a8e6934" />
 
 📌 **Key Findings**
 - **Seasonality by month:** Office Supplies had clear seasonality with orders rose through Q4 with peaks in November – December. Technology and Furniture were steadier, with smaller late-year lifts.
 - **Ship mode usage:** Standard Class dominated order volume across all categories. First/Second Class were used selectively. Same Day ship mode was niche. That mix likely protected margin but also hid opportunity where faster modes could lift conversion.
 - **Category quality:** At category level, Office Supplies carried the lowest return rate (4.95%), Technology was mid (5.77%), and Furniture was the highest (5.92%). So the furniture portfolio continued to be the main returns risk.
 - **Sub-category performance (by market):** Copiers, Bookcases, Appliances, Labels, Binders, Storage are top products that bring high-impact profit across several markets. Their Opportunity Score was stronger because they combined good growth, acceptable margin, decent size, and manageable returns.
-- 
+- **Quality vs Growth by customer segment:**
+  - What the quadrants meant?
+    - Invest (top-right): above margin target and above growth benchmark => These were worth scaling.
+    - Defend (top-left): strong margins but below growth benchmark => Should protect price and increase demand to re-accelerate.
+    - Optimize (bottom-right): growing but below margin target => There is demand from customers, but need to fix pricing, cost, discounts, or return rate to unlock profit.
+    - Fix (bottom-left): low growth and low margin => Address root causes or reallocate attention.
+  - Consumer showed several green sub-categories in the Invest and Optimize quadrants (Copiers, Art, Labels) which had strong growth and margin/returns were mostly healthy => These are good targets for bundles and seasonal pushes, especially Office Supplies into Q4
+  - Corporate had more amber and red. This meant that growth was fine but margin slipped and returns ticked up on some SKUs—classic contract/discount pressure.
+  - Home Office had a handful of healthy greens but fewer high-growth outliers; opportunity sat in margin tuning and basket building.
 
 🔎 **Recommendations**
 - Scale impactful markets: double-down on APAC, EU, US with the current product winner.
@@ -196,3 +204,4 @@ Within the selected market, sub-categories are sorted by profit. The cumulative 
 - Campaign lens: Overlay promo periods—see if spikes align with higher returns.
 - Content & QA: For the worst SKUs, review size/spec accuracy, photos, packaging, and supplier QC.
 - Policy/ship tuning: Tighten ship-mode rules for fragile or high-return SKUs; consider restocking fees only where abuse is proven.
+- 
