@@ -183,26 +183,46 @@ Within the selected market, sub-categories are sorted by profit. The cumulative 
   - **Home Office (growth threshold 55.41%):**
     - A healthy set in Invest and Optimize with low and medium returns => the segment looked the most scalable compared to the other two
 
+## 🔎Conclusion & Recommendation
 
-🔎 **Recommendations**
-- Scale impactful markets: double-down on APAC, EU, US with the current product winner.
-- As Average Order Value (AOV) was flat, recommendations to use bundles and premium tiers to add value without discounting
-- Fix the margin sink in Furniture. Within each big market, cut or reprice low-margin SKUs, and tighten discounting (Product Performance table in page Product will give more details about this)
-- Focus on fast growers. EMEA and Africa were markets where YoY profit growth were strongest. Keep a margin/returns gate so growth wouldn't come at the expense of quality.
-- Segment plays to lift revenue quality.
+### Conclusion
 
-🔎 **Recommendations**
-- Expand in the top-score markets (Canada, EMEA, Africa).
-  - Fund demand and channel in those markets.
-  - Use the Pareto list to build focused campaigns and inventory priorities around the top 4–6 sub-categories.
-- Lift Furniture-like margin drags in the big markets (APAC/EU/US).
-  - Use the market’s Pareto to find high-volume/low-margin SKUs; fix pricing, bundles, vendor terms, or freight.
+1️⃣ **Business overview**
 
-🔎 **Recommendations**
-- adjust pre-purchase info/QA and ship-mode policies on the worst SKUs to push the rate below 4%.
-- Decompose return rate by Market × Sub-Category × Ship Mode and by reason code (if available). Look for “long tails” of a few SKUs driving most returns.
-- Mix-normalized view: Compare return rate by category across markets to separate process problems from mix problems.
-- Campaign lens: Overlay promo periods—see if spikes align with higher returns.
-- Content & QA: For the worst SKUs, review size/spec accuracy, photos, packaging, and supplier QC.
-- Policy/ship tuning: Tighten ship-mode rules for fragile or high-return SKUs; consider restocking fees only where abuse is proven.
-- 
+- **The company was in a strong growth cycle:** Sales $12.64M and Profit $1.47M. Total Orders also rose at a similar pace (~ +52%), so growth was volume-driven, not only price or mix.
+- **Quality held while scaling:** Margin 11.61%, Return Rate 4.68%, AOV ~$505 (stable). In short, company had more revenue, better retention of profit, and lower waste.
+- **By Customer segment**: Consumer and Home Office were cleaner with more “green” items. Corporate delivered volume but showed more amber and red in the return rate.
+
+2️⃣**Markets**
+
+- The market opportunity score is the combination of Growth (Sales YOY%), Margin, Size (Total Sales) and Returns Rate, which showed potential markets to expand. Overall, **Canada, EMEA, and Africa worth investing**. They combined good momentum with healthy unit economics and manageable returns.
+- **APAC, EU, US, LATAM drove a large share of revenue**, but their scores dipped because of thinner margins and/or higher returns. They remained core markets, and they just need margin and return tuning to unlock the next leg of growth.
+
+3️⃣**Categories & sub-categories**
+- **Technology was the largest and generally healthy.**
+- Furniture had the biggest improvement opportunity. Its revenue was solid, but a few sub-categories (notably Tables) pushed return rate above target and pulled margin down.
+- Pareto analysis showed a repeating set of profit drivers across markets: **Phones, Copiers, Storage, Bookcases, Appliances, Labels, Binders, Machines, Accessories accounted for approximately 80% of profit in most places.**
+
+### Where to expand & What to expand
+
+
+
+Canada – highest composite score. Scale with confidence.
+
+EMEA – strong YoY profit growth and improving quality; lean in.
+
+Africa – smaller base but accelerating with acceptable returns; selective investment will pay off.
+
+Maintain and optimize in APAC / EU / US / LATAM: keep the volume, fix margin/returns in the leaking product lines (esp. Furniture).
+
+What to expand (strategic products per market)
+
+Use the Pareto bar + 80% line in each market to lock scope. Based on current patterns:
+
+Canada: Phones, Copiers, Storage, Bookcases, Appliances.
+
+EMEA: Copiers, Bookcases, Appliances, Labels, Binders.
+
+Africa: Phones, Storage, Copiers, Accessories, Machines.
+
+APAC / EU / US / LATAM: Technology sub-cats (Phones, Copiers, Machines) remain the growth engine; treat Furniture selectively (avoid Tables/Chairs until returns drop).
