@@ -155,11 +155,20 @@ Within the selected market, sub-categories are sorted by profit. The cumulative 
 
 - **What are strategic products:** The Pareto chart showed each market’s profit concentration by sub-category. For example, in the high-score Canada market, items such as storage, phones, copiers, appliances, bookcases, accessories accounted for ~80% of profit. 
   
-- **Quality guardrails:** Return Rate was high in  markets with high order numbers like APAC, LATAM, US, EU.  
+- **Quality guardrails:** Return Rate was high in  markets with high order numbers like APAC, LATAM, US, EU. A few likely reasons for the high return rate in big, mature markets:
+  - Product mix effect: Large markets sell more variety, including high-return categories (e.g., furniture with sizing/fit issues or fragile items). Mix alone can push the rate up even when processes are good.
+  - Promo & price effects: Aggressive discounting drives trial and higher buyer’s remorse. Campaigns that spike orders often spike returns.
+  - Ship-mode: Faster modes (and cross-border hops) can correlate with damage or mismatched expectations
+  - Customer behavior & policy maturity: Mature markets have easier return policies and more seasoned shoppers. Thus, convenience increases return propensity.
+  - Operational scale: With volume, small defects (packaging, QC leakage, inaccurate content) become meaningful at rate level if not actively managed by SKU.
 
 - **Top 5 Sales Managers** were listed. Anna Andreadi ranked 1st with $2.82M Sales across the markets
   
 3️⃣Product
+
+<img width="1477" height="831" alt="P2_Product" src="https://github.com/user-attachments/assets/7d24b5e1-908a-4c4c-95ca-54fdeabf04bd" />
+
+📌 **Key Findings**
 
 
 🔎 **Recommendations**
@@ -178,3 +187,8 @@ Within the selected market, sub-categories are sorted by profit. The cumulative 
 
 🔎 **Recommendations**
 - adjust pre-purchase info/QA and ship-mode policies on the worst SKUs to push the rate below 4%.
+- Decompose return rate by Market × Sub-Category × Ship Mode and by reason code (if available). Look for “long tails” of a few SKUs driving most returns.
+- Mix-normalized view: Compare return rate by category across markets to separate process problems from mix problems.
+- Campaign lens: Overlay promo periods—see if spikes align with higher returns.
+- Content & QA: For the worst SKUs, review size/spec accuracy, photos, packaging, and supplier QC.
+- Policy/ship tuning: Tighten ship-mode rules for fragile or high-return SKUs; consider restocking fees only where abuse is proven.
