@@ -219,9 +219,12 @@ For other markets like APAC, EU, US, LATAM (e.g., Phones, Copiers, Bookcases, Ch
 - Tie targets to Sales YoY% + Margin floor to protect quality while growing.
 
 📌**Fix the leaks before pushing harder**
-- Furniture: reduce returns, by checking size, items, delivery packaging, vendor QA etc. Adjust delivery policies for fragile or bulky items. Aim returns <6% and margin ≥15%.
-- Corporate deals: replace blanket discounting with value layers (install/warranty/SLAs) and contract guardrails; review freight passthroughs on heavy SKUs.
-
+- Furniture: reduce returns by checking size or item fit, items, delivery packaging (reduce damage during delivery), vendor QA (standard item pass rate), reduce late delivery etc. Adjust delivery policies for fragile or bulky items. Aim returns <6% and margin ≥15%.
+- Corporate deals:
+  - Replace blanket discounting with value layers and contract guardrails. For example, create add-on value such as on-site install, extended warranty, priority replacement, recycling etc.
+  - In addition, set Freight Passthrough Rules, for example, if the item is over 30 kg or volumetric weight is more than the threshold, there will be billed freight or service bundle (e.g., “Install & Deliver” package). Surcharges for stairs/no-lift, after-hours, rural.
+  - Contract structure to ensure item quality to destination, for example, Returns & Damage SLAs, in which parts-only replacements preferred, or corporate will provide photo of packaging/ delivery.
+  
 📌 **Customer Segment specific plays**
 - Consumer: ride Q4 seasonality (Office Supplies) with replenishment bundles that lift AOV.
 - Corporate: defend price on high-margin lines (Defend quadrant) and fix unit economics on fast-growth or low-margin lines (Optimize quadrant).
