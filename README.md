@@ -205,24 +205,25 @@ Within the selected market, sub-categories are sorted by profit. The cumulative 
 
 ### Where to expand & What to expand
 
+| Market | Product | Note|
+|----------|----------|----------|
+|Canada| Storage, Phones, Copiers, Appliances, Bookcases, Accessories, Art |Highest composite score, scale with confidence|
+|EMEA | Copiers, Bookcases, Accessories, Storage, Appliances, Phones, Binders Tables |strongest YoY profit growth and improving quality => lean in|
+|Africa| Phones, Copiers, Storage, Bookcase, Accessories, Machines, Tables| Smaller base, but selective investment will pay off |
 
+For other markets like APAC, EU, US, LATAM (e.g., Phones, Copiers, Bookcases, Chairs, Appliances): maintain and optimize, keep the volume, fix margin/returns in the leaking product lines, especially Furniture.
 
-Canada – highest composite score. Scale with confidence.
+### Recommendations
+📌**Scale the winners**
+- In Canada, EMEA, Africa, guarantee availability, run focused campaigns around each market’s top 4-6 Pareto sub-categories, and align the field team to those SKUs.
+- Tie targets to Sales YoY% + Margin floor to protect quality while growing.
 
-EMEA – strong YoY profit growth and improving quality; lean in.
+📌**Fix the leaks before pushing harder**
+- Furniture: reduce returns, by checking size, items, delivery packaging, vendor QA etc. Adjust delivery policies for fragile or bulky items. Aim returns <6% and margin ≥15%.
+- Corporate deals: replace blanket discounting with value layers (install/warranty/SLAs) and contract guardrails; review freight passthroughs on heavy SKUs.
 
-Africa – smaller base but accelerating with acceptable returns; selective investment will pay off.
+📌 **Customer Segment specific plays**
+- Consumer: ride Q4 seasonality (Office Supplies) with replenishment bundles that lift AOV.
+- Corporate: defend price on high-margin lines (Defend quadrant) and fix unit economics on fast-growth or low-margin lines (Optimize quadrant).
+- Home Office: push subscription and replenishment for repeat items. Also, launch small-business bundles and subscriptions in Home Office
 
-Maintain and optimize in APAC / EU / US / LATAM: keep the volume, fix margin/returns in the leaking product lines (esp. Furniture).
-
-What to expand (strategic products per market)
-
-Use the Pareto bar + 80% line in each market to lock scope. Based on current patterns:
-
-Canada: Phones, Copiers, Storage, Bookcases, Appliances.
-
-EMEA: Copiers, Bookcases, Appliances, Labels, Binders.
-
-Africa: Phones, Storage, Copiers, Accessories, Machines.
-
-APAC / EU / US / LATAM: Technology sub-cats (Phones, Copiers, Machines) remain the growth engine; treat Furniture selectively (avoid Tables/Chairs until returns drop).
