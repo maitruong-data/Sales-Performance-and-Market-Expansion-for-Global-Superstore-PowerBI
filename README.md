@@ -140,8 +140,26 @@ From the data tables above, I created Star Schema Model as below
 
 <img width="1474" height="829" alt="P2_Market " src="https://github.com/user-attachments/assets/84a1c081-ab8a-42bb-8408-f21d7e2ce5f7" />
 
+**Two important features in this page:**
+- **Opportunity Score (Market)**
+The Opportunity Score ranks markets by four criterias: Growth (Sales YoY%), Profitability (Margin%), Size (Sales), and Risk (Return rate). Each market is normalized against its peers and scored on a 0–100 scale:
+_Score = 0.40*Growth + 0.30*Margin + 0.20*Size – 0.10*ReturnRate_
+That weighting favors future upside (growth) and healthy unit economics (margin), rewards scale, and penalizes returns. It lets you rank markets objectively instead of looking at one metric at a time.
+
+- **Pareto 80/20**
+Within the selected market, sub-categories are sorted by profit. The cumulative line and the 80% target show the strategic product set that drives most of the money. This chart answers for the question: “If we focus, which products move the needle here?”
+
 📌 **Key Findings**
 
+- **Where to expand next:** The areas with higest opportunity to expand are Canada, EMEA, and Africa. Though APAC, EU, LATAM, US had higher Sales, they showed margin dips or return spikes, which dragged their score.
+
+- **What are strategic products:** The Pareto chart showed each market’s profit concentration by sub-category. For example, in the high-score Canada market, items such as storage, phones, copiers, appliances, bookcases, accessories accounted for ~80% of profit. 
+  
+- **Quality guardrails:** Return Rate was high in  markets with high order numbers like APAC, LATAM, US, EU.  
+
+- **Top 5 Sales Managers** were listed. Anna Andreadi ranked 1st with $2.82M Sales across the markets
+  
+3️⃣Product
 
 
 🔎 **Recommendations**
@@ -150,3 +168,13 @@ From the data tables above, I created Star Schema Model as below
 - Fix the margin sink in Furniture. Within each big market, cut or reprice low-margin SKUs, and tighten discounting (Product Performance table in page Product will give more details about this)
 - Focus on fast growers. EMEA and Africa were markets where YoY profit growth were strongest. Keep a margin/returns gate so growth wouldn't come at the expense of quality.
 - Segment plays to lift revenue quality.
+
+🔎 **Recommendations**
+- Expand in the top-score markets (Canada, EMEA, Africa).
+  - Fund demand and channel in those markets.
+  - Use the Pareto list to build focused campaigns and inventory priorities around the top 4–6 sub-categories.
+- Lift Furniture-like margin drags in the big markets (APAC/EU/US).
+  - Use the market’s Pareto to find high-volume/low-margin SKUs; fix pricing, bundles, vendor terms, or freight.
+
+🔎 **Recommendations**
+- adjust pre-purchase info/QA and ship-mode policies on the worst SKUs to push the rate below 4%.
