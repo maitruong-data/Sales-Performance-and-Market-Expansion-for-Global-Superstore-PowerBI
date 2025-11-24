@@ -19,7 +19,7 @@ Tool Used: Power BI
 This project uses Power BI to analyze and visualize global sale data for a retail company named Superstore, which operates across multiple markets and continents. The company is growing fast and aiming to expand their markets and strategic products.
 
 Our main goal is to provide senior managers data-driven insights to:
-- Get an overview of business performance in terms of sales, profit, and order return rate over the years, markets and products
+- Get an overview of business performance in terms of sales, profit, products and order return rate over the years, markets and products
 - Identify growth markets and strategic products, which lead to better market strategy, commercial tactics and product portfolio
 - Shorten decision time
 
@@ -29,7 +29,7 @@ Our main goal is to provide senior managers data-driven insights to:
 - Product performance: What are strategic products should be prioritized?
 
 👤**Target Audience**
-- Senior Managers, Regional Managers or Finance Managers who need a reliable view of business performance to compare markets and products, where are they winning or losing, to guide market expansion and product strategy
+- Senior Managers, Regional Managers or Finance Managers who need a reliable view of business performance to compare markets and products, where they are winning or losing, to guide market expansion and product strategy
 - Product Managers, Business Strategy, Marketing and Management teams who decide market growth, strategic products and marketing strategies
 - Data analysts and Data team who are looking for actionable insights
 
@@ -50,7 +50,7 @@ Our main goal is to provide senior managers data-driven insights to:
 
 2️⃣ **Table Schemas**
 <details>
-  <summary>Table 1: Order - sales transactions and customer information </summary>
+  <summary>Table 1: Order - sales transactions and customer information</summary>
   
 | Column Name | Data Type | Description |
 |----------|----------|----------|
@@ -116,11 +116,48 @@ From the data tables above, I created Star Schema Model as below
 
 ## 🧠Design Thinking Process
 
-1️⃣ Empathize
-2️⃣ Define point of view
-3️⃣ Ideate
-4️⃣ Prototype and review
+Design Thinking is a human-centered, iterative way to solve problems. You start with people, frame the right problem, explore options, build quick versions, and learn by testing and looping until it works.
 
+1️⃣ **Empathize - understand people & context**
+
+Use **5W1H** to ground the work.
+- Who are the stakeholders and users?
+- What decisions do they need to make? What info helps/hurts?
+- Why does this matter (business goals, pain points)?
+- When will they use the solution (cadence, time pressure)?
+- Where will they use it (device, meeting room, field)?
+- How do they work today (tools, workflows, constraints)?
+
+**Outputs:** user personas, roles, pains & gains, current workflow map, list of must-have metrics.
+
+
+2️⃣ **Define point of view - frame the problem clearly**
+
+What are the core reasons users should use this dashboard? If there's no such dashboard, what are their pains?
+
+Define Northstar metrics, points of view the stakeholders want to see. For each point of view, develop growth formula to look deeper the problem
+
+**Outputs:** problem statement, objectives, KPIs, acceptance criteria.
+
+3️⃣ **Ideate - explore solution options**
+
+Start with Growth Formula breakdown from each point of view, brainstorming the dashboard related to that point of view and connect to the Northstar metrics
+
+**Outputs: **shortlisted concepts, information architecture, draft layouts.
+
+4️⃣**Prototype**
+
+Build the smallest thing that proves the idea.
+Questions: What’s the fastest prototype that stakeholders can react to? What sample data or interactions do we need?
+**Outputs:** clickable prototype or dashboard ver 1
+
+5️⃣**Review & iterate**
+Put it in front of real users; measure, tweak, repeat.
+
+- Questions: Can they answer their key questions in < N minutes? What’s confusing? What’s missing? What would they change?
+- Metrics: task success rate, time to insight, error points, satisfaction.
+
+Prioritize fixes, next iteration plan, validated solution
 
 ## 📊Key Insights & Visualizations
 
