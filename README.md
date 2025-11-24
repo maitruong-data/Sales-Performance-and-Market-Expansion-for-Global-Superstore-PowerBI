@@ -7,11 +7,11 @@ Tool Used: Power BI
 ***
 
 ## 📑**Table of Contents**
-1. 📌Overview
+1. 📌[Overview](#overview)
 2. 📂Dataset Description & Data Structure
 3. 🧠Design Thinking Process
 4. 📊Key Insights & Visualizations
-5. 🔎Final Conclusion & Recommendations
+5. 🔎[Final Conclusion & Recommendations](#conclusion--recommendation)
 
 ## 📌Overview
 🎯**Project Objectives**
@@ -144,7 +144,7 @@ From the data tables above, I created Star Schema Model as below
 **Two important features in this page:**
 - **Opportunity Score (Market)**
 The Opportunity Score ranks markets by four criterias: Growth (Sales YoY%), Profitability (Margin%), Size (Sales), and Risk (Return rate). Each market is normalized against its peers and scored on a 0–100 scale:
-_Score = 0.40*Growth + 0.30*Margin + 0.20*Size – 0.10*ReturnRate_
+_Score = 0.40\*Growth + 0.30\*Margin + 0.20\*Size – 0.10\*ReturnRate_
 That weighting favors future upside (growth) and healthy unit economics (margin), rewards scale, and penalizes returns. It lets you rank markets objectively instead of looking at one metric at a time.
 
 - **Pareto 80/20**
