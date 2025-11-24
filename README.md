@@ -143,7 +143,7 @@ Define Northstar metrics, points of view the stakeholders want to see. For each 
 
 Start with Growth Formula breakdown from each point of view, brainstorming the dashboard related to that point of view and connect to the Northstar metrics
 
-**Outputs: **shortlisted concepts, information architecture, draft layouts.
+**Outputs:** shortlisted concepts, information architecture, draft layouts.
 
 4️⃣**Prototype**
 
@@ -172,7 +172,7 @@ Prioritize fixes, next iteration plan, validated solution
 - **Overall**, in 2011-2014 period, the company was in a strong growth cycle. Total sales reached $12.64M and total profit was $1.47M. Both were up a little over +51% YoY. Order volume increased around +52%, which showed growth was broad-based and not just price effects. Profit margin was 11.61%, return rate improved by 1.45%, and AOV was steady around $505 => This suggested that the company sold more, kept margins intact, and reduced product returns—good operating discipline.
 - **Time len:** Sales and profit grew, while margin peaked around 2013 and eased slightly. Returns trended down overall while orders ramped.
 - **Market len:** APAC, EU, and US contribute the bulk of revenue and profit. Smaller regions such as EMEA and Africa show the fastest YoY profit growth, suggesting room to invest where we already see momentum. All markets had positive profit YoY%, in which EMEA and Africa ranked the highest.
-- **Product Category len: **Technology was the largest and profitable. Furniture drove revenue but showed a low margin compared to the other categories. Office Supplies was stable mid-margin. Furniture was likely where leakage sat.
+- **Product Category len:** Technology was the largest and profitable. Furniture drove revenue but showed a low margin compared to the other categories. Office Supplies was stable mid-margin. Furniture was likely where leakage sat.
 - **Customer Segment len:** Demand and profit were high from Consumer customer segment, followed by Corporate and Home Office => This was an opportunity to design segment-specific growth, especially to lift Corporate and Home Office penetration and basket size.
 
 2️⃣ **Market**
