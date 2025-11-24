@@ -16,7 +16,8 @@ Tool Used: Power BI
 ## 📌Overview
 🎯**Project Objectives**
 
-This project uses Power BI to analyze and visualize global sale data for a retail company named Superstore, which operates across multiple markets and continents. The company is growing fast and aiming to expand their markets and strategic products\ 
+This project uses Power BI to analyze and visualize global sale data for a retail company named Superstore, which operates across multiple markets and continents. The company is growing fast and aiming to expand their markets and strategic products\
+
 Our main goal is to provide senior managers data-driven insights to:
 - Get an overview of business performance in terms of sales, profit, and order return rate over the years, markets and products
 - Identify growth markets and strategic products, which lead to better market strategy, commercial tactics and product portfolio
