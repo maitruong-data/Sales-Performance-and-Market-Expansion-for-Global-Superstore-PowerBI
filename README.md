@@ -152,6 +152,7 @@ Questions: What’s the fastest prototype that stakeholders can react to? What s
 **Outputs:** clickable prototype or dashboard ver 1
 
 5️⃣**Review & iterate**
+
 Put it in front of real users; measure, tweak, repeat.
 
 - Questions: Can they answer their key questions in < N minutes? What’s confusing? What’s missing? What would they change?
@@ -168,11 +169,11 @@ Prioritize fixes, next iteration plan, validated solution
 <img width="1482" height="830" alt="P2_Overview" src="https://github.com/user-attachments/assets/6f5445d2-cd62-46b1-b0be-1d0ea76e3a7f" />
 
 📌 **Key Findings**
-- Overall, in 2011-2014 period, the company was in a strong growth cycle. Total sales reached $12.64M and total profit was $1.47M. Both were up a little over +51% YoY. Order volume increased around +52%, which shows growth is broad-based and not just price effects. Profit margin was 11.61%, return rate improved by 1.45%, and AOV was steady around $505 => This suggested that the company sold more, kept margins intact, and reduced product returns—good operating discipline.
-- Time len: Sales and profit grew, while margin peaked around 2013 and eased slightly. Returns trended down overall while orders ramped.
-- Market len: APAC, EU, and US contribute the bulk of revenue and profit. Smaller regions such as EMEA and Africa show the fastest YoY profit growth, suggesting room to invest where we already see momentum. All markets had positive profit YoY%, in which EMEA and Africa ranked highest.
-- Product Category len: Technology was the largest and profitable. Furniture drove revenue but showed a low margin compared to the other categories. Office Supplies was stable mid-margin. Furniture was likely where leakage sat.
-- Demand and profit were high from Consumer customer segment, followed by Corporate and Home Office => This was an opportunity to design segment-specific growth, especially to lift Corporate and Home Office penetration and basket size.
+- **Overall**, in 2011-2014 period, the company was in a strong growth cycle. Total sales reached $12.64M and total profit was $1.47M. Both were up a little over +51% YoY. Order volume increased around +52%, which showed growth was broad-based and not just price effects. Profit margin was 11.61%, return rate improved by 1.45%, and AOV was steady around $505 => This suggested that the company sold more, kept margins intact, and reduced product returns—good operating discipline.
+- **Time len:** Sales and profit grew, while margin peaked around 2013 and eased slightly. Returns trended down overall while orders ramped.
+- **Market len:** APAC, EU, and US contribute the bulk of revenue and profit. Smaller regions such as EMEA and Africa show the fastest YoY profit growth, suggesting room to invest where we already see momentum. All markets had positive profit YoY%, in which EMEA and Africa ranked the highest.
+- **Product Category len: **Technology was the largest and profitable. Furniture drove revenue but showed a low margin compared to the other categories. Office Supplies was stable mid-margin. Furniture was likely where leakage sat.
+- **Customer Segment len:** Demand and profit were high from Consumer customer segment, followed by Corporate and Home Office => This was an opportunity to design segment-specific growth, especially to lift Corporate and Home Office penetration and basket size.
 
 2️⃣ **Market**
 
@@ -180,20 +181,20 @@ Prioritize fixes, next iteration plan, validated solution
 
 **Two important features in this page:**
 - **Opportunity Score (Market)**
-The Opportunity Score ranks markets by four criterias: Growth (Sales YoY%), Profitability (Margin%), Size (Sales), and Risk (Return rate). Each market is normalized against its peers and scored on a 0–100 scale:
+The Opportunity Score ranks markets by four criterias: Growth (Sales YoY%), Profitability (Margin%), Size (Sales), and Risk (Return rate). Each market was normalized against its peers and scored on a 0–100 scale:
 _Score = 0.40\*Growth + 0.30\*Margin + 0.20\*Size – 0.10\*ReturnRate_
-That weighting favors future upside (growth) and healthy unit economics (margin), rewards scale, and penalizes returns. It lets you rank markets objectively instead of looking at one metric at a time.
+That weighting would favor future upside (growth) and healthy unit economics (margin), reward scale, and penalize returns. This allows you to rank markets objectively instead of looking at one metric at a time.
 
 - **Pareto 80/20**
-Within the selected market, sub-categories are sorted by profit. The cumulative line and the 80% target show the strategic product set that drives most of the money. This chart answers for the question: “If we focus, which products move the needle here?”
+Within the selected market, sub-categories were sorted by profit. The cumulative line and the 80% target showed the strategic product set that drove most of the money. This chart answered for the question: “If we focus, which products move the needle here?”
 
 📌 **Key Findings**
 
-- **Where to expand next:** The areas with higest opportunity to expand are Canada, EMEA, and Africa. Though APAC, EU, LATAM, US had higher Sales, they showed margin dips or return spikes, which dragged their score.
+- **Where to expand next:** The areas with higest opportunity to expand were Canada, EMEA, and Africa. Though APAC, EU, LATAM, US had higher Sales, they showed margin dips or return spikes, which dragged their score.
 
-- **What are strategic products:** The Pareto chart showed each market’s profit concentration by sub-category. For example, in the high-score Canada market, items such as storage, phones, copiers, appliances, bookcases, accessories accounted for ~80% of profit. 
+- **What are strategic products:** The Pareto chart showed each market’s profit concentration by sub-category. For example, in the high-score Canada market, items such as Storage, Phones, Copiers, Appliances, Bookcases, Accessories accounted for ~80% of profit. 
   
-- **Quality guardrails:** Return Rate was high in  markets with high order numbers like APAC, LATAM, US, EU. A few likely reasons for the high return rate in big, mature markets:
+- **Quality guardrails:** Return Rate was high in markets with high order numbers like APAC, LATAM, US, EU. A few likely reasons for the high return rate in big, mature markets:
   - Product mix effect: Large markets sell more variety, including high-return categories (e.g., furniture with sizing/fit issues or fragile items). Mix alone can push the rate up even when processes are good.
   - Promo & price effects: Aggressive discounting drives trial and higher buyer’s remorse. Campaigns that spike orders often spike returns.
   - Ship-mode: Faster modes (and cross-border hops) can correlate with damage or mismatched expectations
@@ -219,9 +220,9 @@ Within the selected market, sub-categories are sorted by profit. The cumulative 
     - More dispersion and more amber or red than Consumer segment.
     - There were a couple of Invest candidates (Copiers, Applicances, Accessories), but with high return rate
   - **Home Office (growth threshold 55.41%):**
-    - A healthy set in Invest and Optimize with low and medium returns => the segment looked the most scalable compared to the other two
+    - A healthy set in Invest and Optimize with low and medium returns => the segment looked the most scalable compared to the other two segments
 
-## 🔎Conclusion & Recommendation
+## 🔎Final Conclusion & Recommendations
 
 ### Conclusion
 
@@ -233,7 +234,7 @@ Within the selected market, sub-categories are sorted by profit. The cumulative 
 
 2️⃣**Markets**
 
-- The market opportunity score is the combination of Growth (Sales YOY%), Margin, Size (Total Sales) and Returns Rate, which showed potential markets to expand. Overall, **Canada, EMEA, and Africa worth investing**. They combined good momentum with healthy unit economics and manageable returns.
+- The market opportunity score was the combination of Growth (Sales YOY%), Margin, Size (Total Sales) and Returns Rate, which showed potential markets to expand. Overall, **Canada, EMEA, and Africa worth investing**. They combined good momentum with healthy unit economics and manageable returns.
 - **APAC, EU, US, LATAM drove a large share of revenue**, but their scores dipped because of thinner margins and/or higher returns. They remained core markets, and they just need margin and return tuning to unlock the next leg of growth.
 
 3️⃣**Categories & sub-categories**
@@ -266,5 +267,5 @@ For other markets like APAC, EU, US, LATAM (e.g., Phones, Copiers, Bookcases, Ch
 📌 **Customer Segment specific plays**
 - Consumer: ride Q4 seasonality (Office Supplies) with replenishment bundles that lift AOV.
 - Corporate: defend price on high-margin lines (Defend quadrant) and fix unit economics on fast-growth or low-margin lines (Optimize quadrant).
-- Home Office: push subscription and replenishment for repeat items. Also, launch small-business bundles and subscriptions in Home Office
+- Home Office: push subscription and replenishment for repeat items. Also, launch small-business bundles and subscriptions in Home Office.
 
