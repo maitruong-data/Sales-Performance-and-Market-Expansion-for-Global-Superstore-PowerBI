@@ -8,10 +8,15 @@ Tool Used: Power BI
 
 ## 📑**Table of Contents**
 1. 📌[Overview](#overview)
+
 2. 🔎[Key Insights & Recommendations](#key-insights--recommendations)
+
 3. 📊[Analysis in Details](#-analysis-in-details)
+
 3.1. 📂[Dataset Description & Data Structure](#-dataset-description--data-structure)
+
 3.2. 🧠[Design Thinking Process](#-design-thinking-process)
+
 3.3. 📊[Visualizations](#-visualizations)
 
 ## 📌Overview
@@ -40,18 +45,18 @@ Our main goal is to provide senior managers data-driven insights to:
 
 1️⃣ **Business overview**
 
-- **The company was in a strong growth cycle:** Sales $12.64M and Profit $1.47M. Total Orders also rose at a similar pace (~52%), so growth was volume-driven, not only price or mix.
+- **The company was in a strong growth cycle:** Sales $12.64M and Profit $1.47M. Total Orders also rose at a similar pace (\~52%), so growth was volume-driven, not only price or mix.
 - **Quality held while scaling:** Margin 11.61%, Return Rate 4.68%, AOV ~$505 (stable). In short, company had more revenue, better retention of profit, and lower waste.
 - Technology products were the profit engine. Furniture drove revenue but had low profit margin. Smaller regions like EMEA, Africa, Canada showed the fastest profit YoY momentum.
 - **By Customer segment**: Consumer customers brought the most profit in all product categories: Furniture, Office Supplies and Technology.
 
 2️⃣**Markets**
 
-- Where to grow: APAC, EU, and US delivered ~70%+ of profit contribution with solid margins and highest orders. EMEA, Africa, Canada showed the fastest profit YoY%, signaling rising markets.
+- Where to grow: APAC, EU, and US delivered \~70%+ of profit contribution with solid margins and highest orders. EMEA, Africa, Canada showed the fastest profit YoY%, signaling rising markets.
 - What to sell: Pareto chart showed which products and sub-products that each market should concentrate. For example, in APAC market, Phones, Copiers, Appliances/Bookcases/Chairs made up ~80% of profit.
 
 3️⃣**Categories & sub-categories**
-- Office Supplies drove volume but low value. It had the most orders and clear Q4 seasonality, but the lowest AOV (~$199). Technology and Furniture were profit drivers with much higher AOVs (~$568/~$501) despite fewer orders.
+- Office Supplies drove volume but low value. It had the most orders and clear Q4 seasonality, but the lowest AOV (\~$199). Technology and Furniture were profit drivers with much higher AOVs (\~$568/\~$501) despite fewer orders.
 - Top performers by sub-category were concentrated across markets were Copiers, Labels, Bookcases, Appliances, Binders, Storage repeatedly contributed outsized profit. Return risk at product level stayed at around 6%–7%.
 
 ### Where to expand & What to expand
@@ -243,7 +248,7 @@ Within the selected market (viewed by product categories or sub-categories), pro
 - **Ship mode usage:** Standard Class dominated order volume across all categories. First/Second Class were used selectively. Same Day ship mode was niche. That mix likely protected margin but also hid opportunity where faster modes could lift conversion.
 - **Return Risk:** At category level, all categories had similar return risk (6-7%)
 - **Sub-category performance (by market):** Copiers, Tables, Bookcases, Appliances, Labels, Binders, Storage are top products that bring high-impact profit across several markets with high profit margin.
-- Office Supplies had by far the most orders and units, but the smallest average order value (~$199). Technology and Furniture are profit drivers with much higher average order values (~$568 for Tech, ~$501 for Furniture) though they have far fewer orders => We should bundle and cross-sell to lift AOV without adding more operational load.
+- Office Supplies had by far the most orders and units, but the smallest average order value (\~$199). Technology and Furniture are profit drivers with much higher average order values (\~$568 for Tech, \~$501 for Furniture) though they have far fewer orders => We should bundle and cross-sell to lift AOV without adding more operational load.
 - **Quality vs Growth by customer segment (Top 10 sub-category products by Sales YoY:**
   - Consumer (Margin target 15%, Average Sales YoY 49.92%)
     - Most sub-category products had medium and high return rate.
