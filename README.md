@@ -201,18 +201,19 @@ Within the selected market (viewed by product categories or sub-categories), pro
 📌 **Key Findings**
 - **Seasonality by month:** Office Supplies had clear seasonality with orders rose through Q4 with peaks in November – December. Technology and Furniture were steadier, with smaller late-year lifts.
 - **Ship mode usage:** Standard Class dominated order volume across all categories. First/Second Class were used selectively. Same Day ship mode was niche. That mix likely protected margin but also hid opportunity where faster modes could lift conversion.
-- **Category quality:** At category level, Office Supplies carried the lowest return rate (4.95%), Technology was mid (5.77%), and Furniture was the highest (5.92%). So the furniture portfolio continued to be the main returns risk.
-- **Sub-category performance (by market):** Copiers, Bookcases, Appliances, Labels, Binders, Storage are top products that bring high-impact profit across several markets. Their Opportunity Score was stronger because they combined good growth, acceptable margin, decent size, and manageable returns.
-- **Quality vs Growth by customer segment:**
-  - Consumer (growth threshold 49.23%)
-    - Points clustered around the 15% margin line with a mix of Low (green) and Medium (amber) returns.
-    - Labels, Art, Copiers, Paper sat in Invest (top-right) with healthy margin, above median growth, but mostly medium and high returns.
-  - **Corporate (growth threshold 51.71%):**
-    - More dispersion and more amber or red than Consumer segment.
-    - There were a couple of Invest candidates (Copiers, Applicances, Accessories), but with high return rate
-  - **Home Office (growth threshold 55.41%):**
-    - A healthy set in Invest and Optimize with low and medium returns => the segment looked the most scalable compared to the other two segments
-
+- **Return Risk:** At category level, all categories had similar return risk (6-7%)
+- **Sub-category performance (by market):** Copiers, Tables, Bookcases, Appliances, Labels, Binders, Storage are top products that bring high-impact profit across several markets with high profit margin.
+- Office Supplies had by far the most orders and units, but the smallest average order value (~$199). Technology and Furniture are profit drivers with much higher average order values (~$568 for Tech, ~$501 for Furniture) though they have far fewer orders => We should bundle and cross-sell to lift AOV without adding more operational load.
+- **Quality vs Growth by customer segment (Top 10 sub-category products by Sales YoY:**
+  - Consumer (Margin target 15%, Average Sales YoY 49.92%)
+    - Most sub-category products had medium and high return rate.
+    - Labels, Art, Copiers, Paper, Art sat (top-right) had healthy margin, above average growth.
+  - **Corporate (Margin target 15%, Average Sales YoY 56.6%):**
+    - Most product fell below Margin Target and Average Sales YoY.
+    - Accessories was top candidate, but with high return rate
+  - **Home Office (Margin target 15%, Average Sales YoY 63.24%):**
+    - Most product fell below Margin Target and Average Sales YoY.
+    - Labels and Copiers are the top products worth investing
 ## 🔎Final Conclusion & Recommendations
 
 ### Conclusion
