@@ -46,6 +46,8 @@ Our main goal is to provide senior managers data-driven insights to:
 
 1️⃣ **Business overview**
 
+<img width="1554" height="875" alt="Overview" src="https://github.com/user-attachments/assets/d3c617ca-19fc-4dd9-bae0-6a1703f00206" />
+
 - **The company was in a strong growth cycle:** Sales $12.64M and Profit $1.47M. Total Orders also rose at a similar pace (\~52%), so growth was volume-driven, not only price or mix.
 - **Quality held while scaling:** Margin 11.61%, Return Rate 4.68%, AOV ~$505 (stable). In short, company had more revenue, better retention of profit, and lower waste.
 - Technology products were the profit engine. Furniture drove revenue but had low profit margin. Smaller regions like EMEA, Africa, Canada showed the fastest profit YoY momentum.
@@ -53,10 +55,16 @@ Our main goal is to provide senior managers data-driven insights to:
 
 2️⃣**Markets**
 
+<img width="1554" height="875" alt="Market" src="https://github.com/user-attachments/assets/f6fcb947-6b5d-43c5-bd29-5191beeac69d" />
+
+
 - Where to grow: APAC, EU, and US delivered \~70%+ of profit contribution with solid margins and highest orders. EMEA, Africa, Canada showed the fastest profit YoY%, signaling rising markets.
 - What to sell: Pareto chart showed which products and sub-products that each market should concentrate. For example, in APAC market, Phones, Copiers, Appliances/Bookcases/Chairs made up ~80% of profit.
 
 3️⃣**Categories & sub-categories**
+
+<img width="1386" height="777" alt="Product" src="https://github.com/user-attachments/assets/a642c089-f81c-42ee-9619-62b70995b8f8" />
+
 - Office Supplies drove volume but low value. It had the most orders and clear Q4 seasonality, but the lowest AOV (\~$199). Technology and Furniture were profit drivers with much higher AOVs (\~$568/\~$501) despite fewer orders.
 - Top performers by sub-category were concentrated across markets were Copiers, Labels, Bookcases, Appliances, Binders, Storage repeatedly contributed outsized profit. Return risk at product level stayed at around 6%–7%.
 
