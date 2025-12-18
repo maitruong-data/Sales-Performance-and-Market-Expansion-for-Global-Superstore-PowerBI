@@ -1,7 +1,8 @@
 # Sales Performance and Market Expansion for Global Superstore | Power BI
 
 Author: Mai Truong\
-Date: 20 November 2025\
+Created Date: 20 November 2025\
+Updated Date: 19 December 2025\
 Tool Used: Power BI
 
 ***
