@@ -210,7 +210,7 @@ Prioritize fixes, next iteration plan, validated solution
 
 
 📌 **Key Findings**
-- **Overall**, in 2011-2014 period, the company was in a strong growth cycle. Total sales reached $12.64M and total profit was $1.47M. Both had +51% YoY. Total Order volume increased around 52%, which showed growth was broad-based and not just price effects. Profit margin was 11.61%, return rate improved by 1.45%, and AOV was steady around $505 => This suggested that the company sold more, kept margins intact, and reduced product returns—good operating discipline.
+- **Overall**, in 2011-2014 period, the company was in a strong growth cycle. Total sales reached $12.64M and total profit was $1.47M. Both had +51% YoY. Total Order volume increased around 52%, which showed growth was broad-based and not just price effects. Profit margin was 11.61%, return rate improved by 1.45%, and AOV was steady around $505 => This suggested that the company sold more, kept margins intact, and reduced product returns => good operating discipline.
 - **Time len:** Sales and profit grew, while margin peaked in 2013 and eased slightly. Returns trended down overall while Order trend ramped.
 - **Market len:** APAC, EU, and US contributed the bulk of revenue and profit. Smaller regions such as EMEA, Canada and Africa had much less revenue and profit but showed the fastest YoY profit, suggesting room to invest where we already see momentum.
 - **Product Category len:** Technology was the largest and profitable. Furniture drove revenue but showed a low margin compared to the other categories. Office Supplies was stable mid-margin => Furniture was likely where leakage sat.
