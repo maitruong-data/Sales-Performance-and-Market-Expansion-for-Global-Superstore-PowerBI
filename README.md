@@ -11,7 +11,7 @@ Tool Used: Power BI
 2. 🔎[Key Insights & Recommendations](#conclusion--recommendation)
 3. 📂[Dataset Description & Data Structure](#dataset-description--data-structure)
 4. 🧠[Design Thinking Process](#design-thinking-process)
-5. 📊[Key Insights & Visualizations](#key-insights--visualizations)
+5. 📊[Visualizations](#key-insights--visualizations)
 
 ## 📌Overview
 🎯**Project Objectives**
@@ -196,9 +196,7 @@ Put it in front of real users; measure, tweak, repeat.
 
 Prioritize fixes, next iteration plan, validated solution
 
-## 📊Key Insights & Visualizations
-
-### 🔍Dashboard Preview
+## 📊 Visualizations
 
 1️⃣ **Overview**
 
