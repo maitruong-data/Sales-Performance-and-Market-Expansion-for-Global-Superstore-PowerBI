@@ -8,10 +8,10 @@ Tool Used: Power BI
 
 ## 📑**Table of Contents**
 1. 📌[Overview](#overview)
-2. 📂[Dataset Description & Data Structure](#dataset-description--data-structure)
-3. 🧠[Design Thinking Process](#design-thinking-process)
-4. 📊[Key Insights & Visualizations](#key-insights--visualizations)
-5. 🔎[Final Conclusion & Recommendations](#conclusion--recommendation)
+2. 🔎[Key Insights & Recommendations](#conclusion--recommendation)
+3. 📂[Dataset Description & Data Structure](#dataset-description--data-structure)
+4. 🧠[Design Thinking Process](#design-thinking-process)
+5. 📊[Key Insights & Visualizations](#key-insights--visualizations)
 
 ## 📌Overview
 🎯**Project Objectives**
@@ -33,8 +33,48 @@ Our main goal is to provide senior managers data-driven insights to:
 - Product Managers, Business Strategy, Marketing and Management teams who decide market growth, strategic products and marketing strategies
 - Data analysts and Data team who are looking for actionable insights
 
-## 📂Dataset Description & Data Structure
-### 📌Data Source
+## 🔎Key Insights & Recommendations
+
+### Key Insights
+
+1️⃣ **Business overview**
+
+- **The company was in a strong growth cycle:** Sales $12.64M and Profit $1.47M. Total Orders also rose at a similar pace (~52%), so growth was volume-driven, not only price or mix.
+- **Quality held while scaling:** Margin 11.61%, Return Rate 4.68%, AOV ~$505 (stable). In short, company had more revenue, better retention of profit, and lower waste.
+- Technology products were the profit engine. Furniture drove revenue but had low profit margin. Smaller regions like EMEA, Africa, Canada showed the fastest profit YoY momentum.
+- **By Customer segment**: Consumer customers brought the most profit in all product categories: Furniture, Office Supplies and Technology.
+
+2️⃣**Markets**
+
+- Where to grow: APAC, EU, and US delivered ~70%+ of profit contribution with solid margins and highest orders. EMEA, Africa, Canada showed the fastest profit YoY%, signaling rising markets.
+- What to sell: Pareto chart showed which products and sub-products that each market should concentrate. For example, in APAC market, Phones, Copiers, Appliances/Bookcases/Chairs made up ~80% of profit.
+
+3️⃣**Categories & sub-categories**
+- Office Supplies drove volume but low value. It had the most orders and clear Q4 seasonality, but the lowest AOV (~$199). Technology and Furniture were profit drivers with much higher AOVs (~$568/~$501) despite fewer orders.
+- Top performers by sub-category were concentrated across markets were Copiers, Labels, Bookcases, Appliances, Binders, Storage repeatedly contributed outsized profit. Return risk at product level stayed at around 6%–7%.
+
+### Where to expand & What to expand
+
+| Market | Product | 
+|----------|----------|
+|APAC| Phones, Copiers, Appliances, Bookcases, Chairs |
+|EU | Bookcases, Copiers, Appliances, Phones, Accessories, Art, Storage |
+|US| Copiers, Phones, Accessories, Paper, Binders|
+
+
+### Recommendations
+📌**Lift AOV in Office Supplies:** Package best-seller bundles (e.g., Paper + Binders + Storage), add subscribe-and-save, and set free-shipping thresholds to raise AOV from ~$199 toward $230–$250 without extra operational load.
+
+📌**Protect and scale Technology and Furniture products:** Attach warranties or installation, tighten product content and packaging, and route bulky SKUs to premium ship modes, targeting returns ≤ 6% and margin ≥ 15%.
+
+📌**Focus growth by market:** Double down on APAC, EU, US with Pareto sub-category assortments, and pilot a light rollout in EMEA, Africa, Canada where profit YoY are strongest.
+
+📌**Replace blanket discounts for Corporate:** Use value-based offers (e.g., warranty, SLAs, implementation), set price guardrails, and pass through freight on heavy items to protect margin.
+
+## 📊 Analysis in Details
+
+## 📂 Dataset Description & Data Structure
+### 📌 Data Source
 - Context: This is a dataset about a fictional online retail company named Global Superstore, which sells furniture, office supplies and technology products globally.
 - The dataset includes 3 tables:
   - Order: 51,281 records
@@ -42,7 +82,7 @@ Our main goal is to provide senior managers data-driven insights to:
   - Returns: 1172 records
 - Format: CSV
 
-### 📊Data Structure & Relationships
+### 📊 Data Structure & Relationships
 
 1️⃣ **Table Schemas**
 <details>
@@ -110,7 +150,7 @@ From the data tables above, I created Star Schema Model as below
 |Orders| DimDate| Orders.Order Date = DimDate.Date| Many-to-One |
 |Orders| People| Orders.Region = People.Region| Many-to-One |
 
-## 🧠Design Thinking Process
+## 🧠 Design Thinking Process
 
 Design Thinking is a human-centered, iterative way to solve problems. You start with people, frame the right problem, explore options, build quick versions, and learn by testing and looping until it works.
 
@@ -215,50 +255,4 @@ Within the selected market (viewed by product categories or sub-categories), pro
   - **Home Office (Margin target 15%, Average Sales YoY 63.24%):**
     - Most product fell below Margin Target and Average Sales YoY.
     - Labels and Copiers are the top products worth investing
-## 🔎Final Conclusion & Recommendations
-
-### Conclusion
-
-1️⃣ **Business overview**
-
-- **The company was in a strong growth cycle:** Sales $12.64M and Profit $1.47M. Total Orders also rose at a similar pace (~ +52%), so growth was volume-driven, not only price or mix.
-- **Quality held while scaling:** Margin 11.61%, Return Rate 4.68%, AOV ~$505 (stable). In short, company had more revenue, better retention of profit, and lower waste.
-- **By Customer segment**: Consumer and Home Office were cleaner with more “green” items. Corporate delivered volume but showed more amber and red in the return rate.
-
-2️⃣**Markets**
-
-- The market opportunity score was the combination of Growth (Sales YOY%), Margin, Size (Total Sales) and Returns Rate, which showed potential markets to expand. Overall, **Canada, EMEA, and Africa worth investing**. They combined good momentum with healthy unit economics and manageable returns.
-- **APAC, EU, US, LATAM drove a large share of revenue**, but their scores dipped because of thinner margins and/or higher returns. They remained core markets, and they just need margin and return tuning to unlock the next leg of growth.
-
-3️⃣**Categories & sub-categories**
-- **Technology was the largest and generally healthy.**
-- Furniture had the biggest improvement opportunity. Its revenue was solid, but a few sub-categories (notably Tables) pushed return rate above target and pulled margin down.
-- Pareto analysis showed a repeating set of profit drivers across markets: **Phones, Copiers, Storage, Bookcases, Appliances, Labels, Binders, Machines, Accessories accounted for approximately 80% of profit in most places.**
-
-### Where to expand & What to expand
-
-| Market | Product | Note|
-|----------|----------|----------|
-|Canada| Storage, Phones, Copiers, Appliances, Bookcases, Accessories, Art |Highest composite score, scale with confidence|
-|EMEA | Copiers, Bookcases, Accessories, Storage, Appliances, Phones, Binders Tables |strongest YoY profit growth and improving quality => lean in|
-|Africa| Phones, Copiers, Storage, Bookcase, Accessories, Machines, Tables| Smaller base, but selective investment will pay off |
-
-For other markets like APAC, EU, US, LATAM (e.g., Phones, Copiers, Bookcases, Chairs, Appliances): maintain and optimize, keep the volume, fix margin/returns in the leaking product lines, especially Furniture.
-
-### Recommendations
-📌**Scale the winners**
-- In Canada, EMEA, Africa, guarantee availability, run focused campaigns around each market’s top 4-6 Pareto sub-categories, and align the field team to those SKUs.
-- Tie targets to Sales YoY% + Margin floor to protect quality while growing.
-
-📌**Fix the leaks before pushing harder**
-- Furniture: reduce returns by checking size or item fit, items, delivery packaging (reduce damage during delivery), vendor QA (standard item pass rate), reduce late delivery etc. Adjust delivery policies for fragile or bulky items. Aim returns <6% and margin ≥15%.
-- Corporate deals:
-  - Replace blanket discounting with value layers and contract guardrails. For example, create add-on value such as on-site install, extended warranty, priority replacement, recycling etc.
-  - In addition, set Freight Passthrough Rules, for example, if the item is over 30 kg or volumetric weight is more than the threshold, there will be billed freight or service bundle (e.g., “Install & Deliver” package). Surcharges for stairs/no-lift, after-hours, rural.
-  - Contract structure to ensure item quality to destination, for example, Returns & Damage SLAs, in which parts-only replacements preferred, or corporate will provide photo of packaging/ delivery.
-  
-📌 **Customer Segment specific plays**
-- Consumer: ride Q4 seasonality (Office Supplies) with replenishment bundles that lift AOV.
-- Corporate: defend price on high-margin lines (Defend quadrant) and fix unit economics on fast-growth or low-margin lines (Optimize quadrant).
-- Home Office: push subscription and replenishment for repeat items. Also, launch small-business bundles and subscriptions in Home Office.
 
