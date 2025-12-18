@@ -43,14 +43,10 @@ Our main goal is to provide senior managers data-driven insights to:
 - Format: CSV
 
 ### 📊Data Structure & Relationships
-1️⃣ **Tables Used**
-  - Order: contains sales transactions and customer information (51,281 records)
-  - People: contains sales managers responsible for each region (13 records)
-  - Returns: contains orders that were returned by customers (1172 records)
 
-2️⃣ **Table Schemas**
+1️⃣ **Table Schemas**
 <details>
-  <summary>Table 1: Order - sales transactions and customer information</summary>
+  <summary>Table 1: Order - sales transactions and customer information (51,281 records) </summary>
   
 | Column Name | Data Type | Description |
 |----------|----------|----------|
@@ -79,7 +75,7 @@ Our main goal is to provide senior managers data-driven insights to:
 </details>
 
 <details>
-  <summary>Table 2: People - sales managers responsible for each region</summary>
+  <summary>Table 2: People - sales managers responsible for each region (13 records) </summary>
 
 | Column Name | Data Type | Description |
 |----------|----------|----------|
@@ -89,7 +85,7 @@ Our main goal is to provide senior managers data-driven insights to:
 </details>
 
 <details>
-  <summary>Table 3: Returns - orders that were returned by customers</summary>
+  <summary>Table 3: Returns - orders that were returned by customers (1172 records) </summary>
 
 | Column Name | Data Type | Description |
 |----------|----------|----------|
@@ -98,7 +94,7 @@ Our main goal is to provide senior managers data-driven insights to:
 
 </details>
 
-3️⃣**Data Relationship**
+2️⃣**Data Relationship**
 
 From the data tables above, I created Star Schema Model as below
 
@@ -166,35 +162,30 @@ Prioritize fixes, next iteration plan, validated solution
 
 1️⃣ **Overview**
 
-<img width="1482" height="830" alt="P2_Overview" src="https://github.com/user-attachments/assets/6f5445d2-cd62-46b1-b0be-1d0ea76e3a7f" />
+<img width="1554" height="875" alt="Overview" src="https://github.com/user-attachments/assets/cfac5988-cd45-4c39-8362-cd9c0ab876bb" />
+
 
 📌 **Key Findings**
-- **Overall**, in 2011-2014 period, the company was in a strong growth cycle. Total sales reached $12.64M and total profit was $1.47M. Both were up a little over +51% YoY. Order volume increased around +52%, which showed growth was broad-based and not just price effects. Profit margin was 11.61%, return rate improved by 1.45%, and AOV was steady around $505 => This suggested that the company sold more, kept margins intact, and reduced product returns—good operating discipline.
-- **Time len:** Sales and profit grew, while margin peaked around 2013 and eased slightly. Returns trended down overall while orders ramped.
-- **Market len:** APAC, EU, and US contribute the bulk of revenue and profit. Smaller regions such as EMEA and Africa show the fastest YoY profit growth, suggesting room to invest where we already see momentum. All markets had positive profit YoY%, in which EMEA and Africa ranked the highest.
-- **Product Category len:** Technology was the largest and profitable. Furniture drove revenue but showed a low margin compared to the other categories. Office Supplies was stable mid-margin. Furniture was likely where leakage sat.
-- **Customer Segment len:** Demand and profit were high from Consumer customer segment, followed by Corporate and Home Office => This was an opportunity to design segment-specific growth, especially to lift Corporate and Home Office penetration and basket size.
+- **Overall**, in 2011-2014 period, the company was in a strong growth cycle. Total sales reached $12.64M and total profit was $1.47M. Both had +51% YoY. Total Order volume increased around 52%, which showed growth was broad-based and not just price effects. Profit margin was 11.61%, return rate improved by 1.45%, and AOV was steady around $505 => This suggested that the company sold more, kept margins intact, and reduced product returns—good operating discipline.
+- **Time len:** Sales and profit grew, while margin peaked in 2013 and eased slightly. Returns trended down overall while Order trend ramped.
+- **Market len:** APAC, EU, and US contributed the bulk of revenue and profit. Smaller regions such as EMEA, Canada and Africa had much less revenue and profit but showed the fastest YoY profit, suggesting room to invest where we already see momentum.
+- **Product Category len:** Technology was the largest and profitable. Furniture drove revenue but showed a low margin compared to the other categories. Office Supplies was stable mid-margin => Furniture was likely where leakage sat.
+- **Customer Segment len:** Demand and profit were high for all producr categories from Consumer customers, followed by Corporate and Home Office => This was an opportunity to design segment-specific growth, especially to lift Corporate and Home Office penetration and basket size.
 
 2️⃣ **Market**
 
-<img width="1474" height="829" alt="P2_Market " src="https://github.com/user-attachments/assets/84a1c081-ab8a-42bb-8408-f21d7e2ce5f7" />
+<img width="1554" height="875" alt="Market" src="https://github.com/user-attachments/assets/284d0a19-e2a5-400d-bc79-d3effc028017" />
 
-**Two important features in this page:**
-- **Opportunity Score (Market)**
-The Opportunity Score ranks markets by four criterias: Growth (Sales YoY%), Profitability (Margin%), Size (Sales), and Risk (Return rate). Each market was normalized against its peers and scored on a 0–100 scale:
-_Score = 0.40\*Growth + 0.30\*Margin + 0.20\*Size – 0.10\*ReturnRate_
-That weighting would favor future upside (growth) and healthy unit economics (margin), reward scale, and penalize returns. This allows you to rank markets objectively instead of looking at one metric at a time.
-
-- **Pareto 80/20**
-Within the selected market, sub-categories were sorted by profit. The cumulative line and the 80% target showed the strategic product set that drove most of the money. This chart answered for the question: “If we focus, which products move the needle here?”
+**Pareto 80/20**
+Within the selected market (viewed by product categories or sub-categories), products were sorted by profit. The pareto line 80% showed 20% strategic products that drove 80% of the profit. This chart answered for the question: “If we focus, which products move the needle here?”
 
 📌 **Key Findings**
 
-- **Where to expand next:** The areas with higest opportunity to expand were Canada, EMEA, and Africa. Though APAC, EU, LATAM, US had higher Sales, they showed margin dips or return spikes, which dragged their score.
+- **Where to expand next:** The markets with highest profit contribution were APAC, EU & US. They also had high profit margin, only after Canada (26.62%).
 
-- **What are strategic products:** The Pareto chart showed each market’s profit concentration by sub-category. For example, in the high-score Canada market, items such as Storage, Phones, Copiers, Appliances, Bookcases, Accessories accounted for ~80% of profit. 
+- **What are strategic products:** The Pareto chart showed each market’s profit concentration by category and sub-category. For example, in APAC, items such as Phones, Copiers, Appliances, Bookcases, Chairs accounted for ~80% of profit. 
   
-- **Quality guardrails:** Return Rate was high in markets with high order numbers like APAC, LATAM, US, EU. A few likely reasons for the high return rate in big, mature markets:
+- **Quality guardrails:** Return Rate was high in markets with high profit contribution and vice versa. A few likely reasons for the high return rate in big, mature markets:
   - Product mix effect: Large markets sell more variety, including high-return categories (e.g., furniture with sizing/fit issues or fragile items). Mix alone can push the rate up even when processes are good.
   - Promo & price effects: Aggressive discounting drives trial and higher buyer’s remorse. Campaigns that spike orders often spike returns.
   - Ship-mode: Faster modes (and cross-border hops) can correlate with damage or mismatched expectations
