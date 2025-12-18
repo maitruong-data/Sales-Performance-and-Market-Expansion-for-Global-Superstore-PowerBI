@@ -196,7 +196,7 @@ Within the selected market (viewed by product categories or sub-categories), pro
   
 3️⃣ **Product**
 
-<img width="1478" height="829" alt="P2_Product" src="https://github.com/user-attachments/assets/ae16686d-6e75-498a-9d63-c4164a8e6934" />
+<img width="1406" height="793" alt="Product" src="https://github.com/user-attachments/assets/2a22e57c-4f86-435e-873c-ff11655cdc7d" />
 
 📌 **Key Findings**
 - **Seasonality by month:** Office Supplies had clear seasonality with orders rose through Q4 with peaks in November – December. Technology and Furniture were steadier, with smaller late-year lifts.
