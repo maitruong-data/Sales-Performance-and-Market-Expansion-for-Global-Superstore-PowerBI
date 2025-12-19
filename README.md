@@ -18,7 +18,7 @@ Tool Used: Power BI
 
 3.2. 🧠[Design Thinking Process](#-design-thinking-process)
 
-3.3. 📊[Visualizations](#-visualizations)
+3.3. 📊[Visualizations and Insights in detailed](#-visualizations)
 
 ## 📌Overview
 🎯**Project Objectives**
@@ -210,7 +210,7 @@ Put it in front of real users; measure, tweak, repeat.
 
 Prioritize fixes, next iteration plan, validated solution
 
-## 📊 Visualizations
+## 📊 Visualizations and Insights in detailed
 
 1️⃣ **Overview**
 
