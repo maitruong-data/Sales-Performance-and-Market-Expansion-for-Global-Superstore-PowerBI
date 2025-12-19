@@ -68,15 +68,6 @@ Our main goal is to provide senior managers data-driven insights to:
 - Office Supplies drove volume but low value. It had the most orders and clear Q4 seasonality, but the lowest AOV (\~$199). Technology and Furniture were profit drivers with much higher AOVs (\~$568/\~$501) despite fewer orders.
 - Top performers by sub-category were concentrated across markets were Copiers, Labels, Bookcases, Appliances, Binders, Storage repeatedly contributed outsized profit. Return risk at product level stayed at around 6%–7%.
 
-### Where to expand & What to expand
-
-| Market | Product | 
-|----------|----------|
-|APAC| Phones, Copiers, Appliances, Bookcases, Chairs |
-|EU | Bookcases, Copiers, Appliances, Phones, Accessories, Art, Storage |
-|US| Copiers, Phones, Accessories, Paper, Binders|
-
-
 ### Recommendations
 📌**Lift AOV in Office Supplies:** Package best-seller bundles (e.g., Paper + Binders + Storage), add subscribe-and-save, and set free-shipping thresholds to raise AOV from ~$199 toward $230–$250 without extra operational load.
 
@@ -85,6 +76,14 @@ Our main goal is to provide senior managers data-driven insights to:
 📌**Focus growth by market:** Double down on APAC, EU, US with Pareto sub-category assortments, and pilot a light rollout in EMEA, Africa, Canada where profit YoY are strongest.
 
 📌**Replace blanket discounts for Corporate:** Use value-based offers (e.g., warranty, SLAs, implementation), set price guardrails, and pass through freight on heavy items to protect margin.
+
+### Where to expand & What to expand
+
+| Market | Product | 
+|----------|----------|
+|APAC| Phones, Copiers, Appliances, Bookcases, Chairs |
+|EU | Bookcases, Copiers, Appliances, Phones, Accessories, Art, Storage |
+|US| Copiers, Phones, Accessories, Paper, Binders|
 
 ## 📊 Analysis in Details
 
