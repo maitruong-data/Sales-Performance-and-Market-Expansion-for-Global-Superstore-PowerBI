@@ -90,7 +90,7 @@ Our main goal is to provide senior managers data-driven insights to:
 |EU | Bookcases, Copiers, Appliances, Phones, Accessories, Art, Storage |
 |US| Copiers, Phones, Accessories, Paper, Binders|
 
-## 📊 Analysis in Details
+## 📊 Analysis Process
 
 ## 📂 Dataset Description & Data Structure
 ### 📌 Data Source
@@ -215,7 +215,7 @@ Put it in front of real users; measure, tweak, repeat.
 
 Prioritize fixes, next iteration plan, validated solution
 
-## 📊 Visualizations and Insights in detailed
+## 📊 Visualizations and Detailed Insights
 
 1️⃣ **Overview**
 
