@@ -40,8 +40,8 @@ Our main goal is to provide senior managers data-driven insights to:
 - Product Managers, Business Strategy, Marketing and Management teams who decide market growth, strategic products and marketing strategies
 - Data analysts and Data team who are looking for actionable insights
 
-## 📊DASHBOARD
-https://app.powerbi.com/reportEmbed?reportId=5635b317-2a02-429a-9faf-e7e17489e8b5&autoAuth=true&ctid=a2a57551-e87e-4fda-a368-264df64b07cb 
+## 📊INTERACTIVE DASHBOARD
+[**Explore the Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiYmI1ODEzZTItODFhYS00Njc0LWFiMmEtNWU4MGVjYTk4NGYwIiwidCI6ImEyYTU3NTUxLWU4N2UtNGZkYS1hMzY4LTI2NGRmNjRiMDdjYiIsImMiOjh9)
 
 ## 🔎Key Insights & Recommendations
 
