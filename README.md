@@ -14,13 +14,13 @@ Tool Used: Power BI
 
 3. 🔎[Key Insights & Recommendations](#key-insights--recommendations)
 
-4. 📊[Analysis Process](#-analysis-in-details)
+4. 📊[Analysis Process](#-analysis-process)
 
 3.1. 📂[Dataset Description & Data Structure](#-dataset-description--data-structure)
 
 3.2. 🧠[Design Thinking Process](#-design-thinking-process)
 
-3.3. 📊[Visualizations and Detailed Insights](#-visualizations-and-insights-in-detailed)
+3.3. 📊[Visualizations and Detailed Insights](#-visualizations-and-detailed-insights)
 
 ## 📌Overview
 🎯**Project Objectives**
