@@ -10,15 +10,17 @@ Tool Used: Power BI
 ## 📑**Table of Contents**
 1. 📌[Overview](#overview)
 
-2. 🔎[Key Insights & Recommendations](#key-insights--recommendations)
+2. 📊[Interactive Dashboard](#interactive-dashboard)
 
-3. 📊[Analysis in Details](#-analysis-in-details)
+3. 🔎[Key Insights & Recommendations](#key-insights--recommendations)
+
+4. 📊[Analysis Process](#-analysis-in-details)
 
 3.1. 📂[Dataset Description & Data Structure](#-dataset-description--data-structure)
 
 3.2. 🧠[Design Thinking Process](#-design-thinking-process)
 
-3.3. 📊[Visualizations and Insights in detailed](#-visualizations-and-insights-in-detailed)
+3.3. 📊[Visualizations and Detailed Insights](#-visualizations-and-insights-in-detailed)
 
 ## 📌Overview
 🎯**Project Objectives**
