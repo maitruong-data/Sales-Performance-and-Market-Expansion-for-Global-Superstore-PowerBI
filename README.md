@@ -16,11 +16,11 @@ Tool Used: Power BI
 
 4. 📊[Analysis Process](#-analysis-process)
 
-3.1. 📂[Dataset Description & Data Structure](#-dataset-description--data-structure)
+4.1. 📂[Dataset Description & Data Structure](#-dataset-description--data-structure)
 
-3.2. 🧠[Design Thinking Process](#-design-thinking-process)
+4.2. 🧠[Design Thinking Process](#-design-thinking-process)
 
-3.3. 📊[Visualizations and Detailed Insights](#-visualizations-and-detailed-insights)
+4.3. 📊[Visualizations and Detailed Insights](#-visualizations-and-detailed-insights)
 
 ## 📌Overview
 🎯**Project Objectives**
